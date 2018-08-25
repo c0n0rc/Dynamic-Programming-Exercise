@@ -1,3 +1,3 @@
-# Dynamic programming exercise
+# Dynamic Programming Exercise
 
 Buggy. 
